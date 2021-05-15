@@ -20,7 +20,7 @@ export default class Index extends Component {
   render () {
     return (
       <View className='index'>
-        
+        <View >test</View>
       </View>
     )
   }
