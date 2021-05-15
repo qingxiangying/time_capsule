@@ -1,0 +1,13 @@
+{
+  "miniprogramRoot": "./",
+  "projectname": "time_capsule",
+  "description": "time_capsule",
+  "appid": "touristappid",
+  "setting": {
+    "urlCheck": true,
+    "es6": false,
+    "postcss": false,
+    "minified": false
+  },
+  "compileType": "miniprogram"
+}
